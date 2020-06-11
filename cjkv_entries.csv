@@ -1,6 +1,6 @@
-﻿english,zh_character,zh_pinyin,ko_character,ko_hangul,ko_romaja,ja_character,ja_kana,ja_romaji,vi_character,vi_quocngu
-company,公司,gōngsī,會社,회사,hoesa,會社,かいしゃ,kaisha,公司,công ty
-to introduce,介紹,jièshào,紹介,소개,sogae,紹介,しょうかい,shōkai,介紹,giới thiệu
-detective,偵探,zhēntàn,探偵,탐정,t'amjŏng,探偵,たんてい ,tantei,探子,thám tử
-weather,天氣,tiānqì,日氣,일기,ilgi,天気,てんき,tenki,時節,thời tiết 
-geometry,幾何學,jǐhéxué,幾何學,기하학,kihahak,幾何學,きかがく,kikagaku,形學,hình học
+﻿english,zh_character,zh_pinyin,ko_character,ko_hangul,ko_romaja,ja_character,ja_kana,ja_romaji,vi_character,vi_quocngu,note
+company,公司,gōngsī,會社,회사,hoesa,會社,かいしゃ,kaisha,公司,công ty,
+to introduce,介紹,jièshào,紹介,소개,sogae,紹介,しょうかい,shōkai,介紹,giới thiệu,
+detective,偵探,zhēntàn,探偵,탐정,t'amjŏng,探偵,たんてい ,tantei,探子,thám tử,Japanese and Korean also have the term 刑事/けいじ/형사
+weather,天氣,tiānqì,日氣,일기,ilgi,天気,てんき,tenki,時節,thời tiết ,Korean more colloquially uses the native term 날씨
+geometry,幾何學,jǐhéxué,幾何學,기하학,kihahak,幾何學,きかがく,kikagaku,形學,hình học,
