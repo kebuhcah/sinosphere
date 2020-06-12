@@ -6,7 +6,7 @@ weather,天氣,tiānqì,日氣,일기,ilgi,天氣,てんき,tenki,時節,thời 
 geometry,幾何學,jǐhéxué,幾何學,기하학,kihahak,幾何學,きかがく,kikagaku,形學,hình học,
 grammar,語法,yǔfǎ,文法,문법,munpŏp,文法,ぶんぽう,bunpō,語法,ngữ pháp,
 logic,邏輯,luóji,論理,논리,nolli,論理,ろんり,ronri,論理,luận lý,
-president,總統,zǒngtǒng,大統領,대통령,taet'ongnyŏng,大統領,だいとうりょう,daitōryō,總統,tổng thống,"Japanese and Korean do have the term 總統/そうとう/총통 in a more narrow or historical sense, e.g. Generalissimo or Führer"
+president,總統,zǒngtǒng,大統領,대통령,taet'ongnyŏng,大統領,だいとうりょう,daitōryō,總統,tổng thống,"Japanese and Korean do have the term 總統 in a more narrow  historical sense, e.g. Generalissimo or Führer"
 gun,槍,qiāng,銃,총,ch'ong,銃,じゅう,jū,銃,súng,
 book,書,shū,冊 ,책,ch'aek,本,ほん,hon,冊 ,sách,
 bank account,賬戶,zhànghù,計座,계좌,kyejwa,口座,こうざ,kōza,財款,tài khoản,
@@ -14,3 +14,7 @@ hospital,醫院,yīyuàn,病院,병원,pyŏngwŏn,病院,びょういん,byōin,
 protein,蛋白質,dànbáizhì,蛋白質,단백질,tanbaekchil,蛋白質,たんぱくしつ,tanpakushitsu,質氮,chất đạm,
 cancer,癌,ái,癌,암,am,癌,がん,gan,癰疽,ung thư,
 information,信息,xìnxī,情報,정보,chŏngbo,情報,じょうほう,jōhō,通信,thông tin,
+joke,笑話,xiàohuà,弄談,농담,nongdam,冗談,じょうだん,jōdan,傳笑林,chuyện tiếu lâm,
+stock,股票,gǔpiào,株式,주식,chusik,株式,かぶしき,kabushiki,股票,cổ phiếu,The Japanese term is partially kun'yomi
+stockholder,股東,gǔdōng,株主,주주,chuju,株主,かぶぬし,kabunushi,股東,cổ đông,The Japanese term is fully kun'yomi
+perfect,完美,wánměi,完璧,완벽,wanbyŏk,完璧,かんぺき,kanpeki,完好,hoàn hảo,
