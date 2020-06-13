@@ -1,13 +1,14 @@
 ﻿english,zh_character,zh_pinyin,ko_character,ko_hangul,ko_romaja,ja_character,ja_kana,ja_romaji,vi_character,vi_quocngu,note
 company,公司,gōngsī,會社,회사,hoesa,會社,かいしゃ,kaisha,公司,công ty,
 to introduce,介紹,jièshào,紹介,소개,sogae,紹介,しょうかい,shōkai,介紹,giới thiệu,
+to graduate,畢業,bìyè,卒業,졸업,chorŏp,卒業,そつぎょう,sotsugyō,卒業,tốt nghiệp,
 detective,偵探,zhēntàn,探偵,탐정,t'amjŏng,探偵,たんてい ,tantei,探子,thám tử,Japanese and Korean also have the term 刑事/けいじ/형사
 weather,天氣,tiānqì,日氣,일기,ilgi,天氣,てんき,tenki,時節,thời tiết ,Korean more colloquially uses the native term 날씨
 geometry,幾何學,jǐhéxué,幾何學,기하학,kihahak,幾何學,きかがく,kikagaku,形學,hình học,
 grammar,語法,yǔfǎ,文法,문법,munpŏp,文法,ぶんぽう,bunpō,語法,ngữ pháp,
 logic,邏輯,luóji,論理,논리,nolli,論理,ろんり,ronri,論理,luận lý,
 president,總統,zǒngtǒng,大統領,대통령,taet'ongnyŏng,大統領,だいとうりょう,daitōryō,總統,tổng thống,"Japanese and Korean do have the term 總統 in a more narrow  historical sense, e.g. Generalissimo or Führer"
-gun,槍,qiāng,銃,총,ch'ong,銃,じゅう,jū,銃,súng,
+gun,槍,qiāng,銃,총,ch'ong,銃,じゅう,jū,銃,súng,"槍 historically means ""spear"" or ""lance"""
 book,書,shū,冊 ,책,ch'aek,本,ほん,hon,冊 ,sách,
 bank account,賬戶,zhànghù,計座,계좌,kyejwa,口座,こうざ,kōza,財款,tài khoản,
 hospital,醫院,yīyuàn,病院,병원,pyŏngwŏn,病院,びょういん,byōin,病院,bệnh viện,
@@ -17,3 +18,8 @@ joke,笑話,xiàohuà,弄談,농담,nongdam,冗談,じょうだん,jōdan,傳笑
 stock,股票,gǔpiào,株式,주식,chusik,株式,かぶしき,kabushiki,股票,cổ phiếu,The Japanese term is partially kun'yomi
 stockholder,股東,gǔdōng,株主,주주,chuju,株主,かぶぬし,kabunushi,股東,cổ đông,The Japanese term is fully kun'yomi
 perfect,完美,wánměi,完璧,완벽,wanbyŏk,完璧,かんぺき,kanpeki,完好,hoàn hảo,
+velocity,速度,sùdù,速度,속도,sokto,速度,そくど,sokudo,運速,vận tốc,
+mass (physics),質量,zhìliàng,質量,질량,chillyang,質量,しつりょう,shitsuryō,塊量,khối lượng,"質量 also means ""quality"" in Chinese and Vietnamese"
+axiom,公理,gōnglǐ,公理,공리,kongni,公理,こうり,kōri,先題,tiên đề,
+probability,概率,gàilǜ,確率,확률,hwangnyul,確率,かくりつ,kakuritsu,確率,xác suất,
+frequency (physics),頻率,pínlǜ,振動數,진동수,chindongsu,周波数,しゅうはすう,shūhasū,頻數,tần số,周波数 is also used in Korean
